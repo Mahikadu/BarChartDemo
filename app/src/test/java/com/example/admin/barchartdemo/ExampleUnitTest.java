@@ -1,4 +1,4 @@
-package com.example.admin.demoapp1;
+package com.example.admin.barchartdemo;
 
 import org.junit.Test;
 

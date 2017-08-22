@@ -1,4 +1,4 @@
-package com.example.admin.demoapp1;
+package com.example.admin.barchartdemo;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
