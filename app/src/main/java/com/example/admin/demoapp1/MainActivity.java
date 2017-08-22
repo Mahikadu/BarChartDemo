@@ -48,7 +48,9 @@ public class MainActivity extends AppCompatActivity {
                 Color.rgb(179, 100, 53),
                 Color.rgb(191, 134, 134),
                 Color.rgb(179, 48, 80),};
-        //barDataSet.setColors(Colors);
+
+        
+         //barDataSet.setColors(Colors);
          barDataSet.setColors(ColorTemplate.COLORFUL_COLORS);
         // barDataSet.setColor(getResources().getColor(R.color.colorAccent));
 
